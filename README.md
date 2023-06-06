@@ -1,5 +1,5 @@
 # Introduction to Spatial Optimisation at AGILE 2023
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/martinfleis/efficient-geopandas-workshop/main?urlpath=lab/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ljwolf/agile-2023-spatialopt/HEAD)
 
 ## Setup
 
